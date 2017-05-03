@@ -1,0 +1,13 @@
+talk 0
+reach 0
+host 0
+assign 0
+communicate 0
+limit 1
+block 0
+avoid 0
+route 0
+divert 0
+turn 0
+disconnect 0
+connect 0
